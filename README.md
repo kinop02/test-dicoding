@@ -6,3 +6,5 @@ commit 2
 commit 3
 
 yaudah ni gw tambahin kata2 lagi
+
+test
